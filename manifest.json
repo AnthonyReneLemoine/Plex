@@ -27,8 +27,8 @@
                     "en": "Choose a path for dockerapp",
                     "fr": "Choisissez un chemin pour dockerapp"
                 },
-                "example": "/web",
-                "default": "/web"
+                "example": "/dockerapp",
+                "default": "/dockerapp"
             },
             {
                 "name": "is_public",
