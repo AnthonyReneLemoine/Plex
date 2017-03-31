@@ -21,6 +21,16 @@
                 "example": "domain.org"
             },
             {
+                "name": "path",
+                "type": "path",
+                "ask": {
+                    "en": "Choose a path for dockerapp",
+                    "fr": "Choisissez un chemin pour dockerapp"
+                },
+                "example": "/web",
+                "default": "/web"
+            },
+            {
                 "name": "is_public",
                 "ask": {
                     "en": "Is it a public application ?"
